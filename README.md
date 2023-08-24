@@ -40,7 +40,7 @@
 
 
 
-![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=volibeto&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=volibeto&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=volibeto&theme=tokyonight)
 
 
