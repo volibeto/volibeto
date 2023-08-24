@@ -1,7 +1,7 @@
 <h1 align="center">Fala Galera 🙂</h1>
-<h3 align="center">Desenvolvedor Back End</h3>
+<h3 align="center">Desenvolvedor Back-End</h3>
 
-- Meu nome é Roberto Correia, eu sou Tech Recruiter e Desenvolvedor **BackEnd** desde de 2022, atualmente trabalho na empresa Tech Sett.
+- Meu nome é Roberto Correia, eu sou Tech Recruiter e Desenvolvedor **Back-End** desde de 2022, atualmente trabalho na empresa Tech Sett.
   
 - 🎮 Além da Programação, sou apaixonado por gatos e jogos.
   
